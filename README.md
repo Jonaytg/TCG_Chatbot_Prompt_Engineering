@@ -1,2 +1,2 @@
 # Prompt-Engineering-Avanzado
-Entrega de práctica de aplicaciones de la IA o Prompt Engineering Avanzado.
+Chatbot especializado en Pokémon TCG mediante Prompt Engineering Avanzado.
